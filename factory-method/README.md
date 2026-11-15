@@ -4,6 +4,8 @@ Projeto didático em Java que simula entregas pelo terminal. O objetivo é demon
 
 O exemplo usa somente a biblioteca padrão do Java, com dados em memória. Não exige banco de dados, Maven, Gradle ou serviços externos.
 
+**Começando do zero no Windows?** Abra o [manual de instalação, execução e testes](docs/MANUAL_TESTES.md). O guia explica como instalar o JDK, baixar o projeto sem Git, executar sem IDE e registrar os resultados dos testes.
+
 ## Como funciona
 
 1. O usuário escolhe bicicleta ou moto no menu.

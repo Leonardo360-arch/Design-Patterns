@@ -2,6 +2,8 @@
 
 Projetos pequenos para estudar padrões de projeto, com exemplos executáveis pelo terminal e explicações em português.
 
+**Primeira execução, sem Java instalado?** Siga o [manual de instalação e testes para Windows](factory-method/docs/MANUAL_TESTES.md). Ele começa pela instalação do JDK e pelo download em ZIP, sem exigir IDE ou Git.
+
 | Padrão | Projeto | Documentação |
 | --- | --- | --- |
 | Factory Method | Entregas por bicicleta e moto | [Abrir o projeto](factory-method/README.md) |
